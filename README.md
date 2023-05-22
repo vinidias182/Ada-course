@@ -5,3 +5,5 @@
 Trilha de Git no curso de Data Engineer
 
 # F1rst Santander Brasil !
+
+Testando comandos git e formatos de versionamento.
